@@ -44,3 +44,24 @@
 11. Create Product Details Screen
     1. fetch product from backend
     2. create 3 columns for image, info and action
+12. Create Loading and Message Component
+    1. create loading component
+    2. use spinner component
+    3. create message component
+    4. create util.js to define getError function
+13. Implement Add To Cart
+    1. create React Context
+    2. define reducer
+    3. create store provider
+    4. implement add to cart button click handler
+14. Complete Add To Cart
+    1. check exist item in the cart
+    2. check count in stock in backend
+15. Create Cart Screen
+    1. create 2 columns
+    2. display items list
+    3. create action colum
+16. Complete Cart Screen
+    1. click handler for inc/dec item
+    2. click handler for remove item
+    3. click handler for checkout
